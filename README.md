@@ -11,8 +11,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,postman,express,mongodb,react,ai,figma,ps" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,bootstrap,html,css,vscode,github,git,javascript,nodejs" />
+    <img src="https://skillicons.dev/icons?i=postman,express,mongodb,react,ai,figma,ps" /><br>
 </div>
 
 <h3 align="left">Connect with me:</h3>
